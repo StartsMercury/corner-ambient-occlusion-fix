@@ -14,9 +14,9 @@ Fixes ambient occlusion when on surface corners as observed in Cosmic Reach
 
 Corner Ambient Occlusion Fix is currently only officially available on GitHub. All
 published version of this mod are in
-[Releases](https://github.com/StartsMercury/simply-no-shading/releases):
+[Releases](https://github.com/StartsMercury/corner-ambient-occlusion-fix/releases):
 
-> <https://github.com/StartsMercury/simply-no-shading/releases>
+> <https://github.com/StartsMercury/corner-ambient-occlusion-fix/releases>
 
 ---
 
