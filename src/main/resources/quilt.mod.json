@@ -1,0 +1,38 @@
+{
+    "schema_version": 1,
+
+    "quilt_loader": {
+        "group": "${group}",
+        "id": "${modid}",
+        "version": "${version}",
+
+        "intermediate_mappings" : "net.fabricmc:intermediary",
+
+        "metadata": {
+            "name": "${display_name}",
+            "description": "Fixes ambient occlusion interaction to deal with corners, or the lack thereof.",
+            "contributors": {
+                "StartsMercury": "Author"
+            },
+
+            "contact": {
+                "issues": "https://github.com/StartsMercury/corner-ambient-occlusion-fix/issues",
+                "sources": "https://github.com/StartsMercury/corner-ambient-occlusion-fix"
+            },
+
+            "icon": "assets/corner-ambient-occlusion-fix/icon.png"
+        },
+
+        "entrypoints": {
+        },
+
+        "depends": [
+            {
+                "id": "cosmicreach",
+                "versions": "*"
+            }
+        ]
+    },
+
+    "mixin": "corner-ambient-occlusion-fix.mixins.json"
+}
