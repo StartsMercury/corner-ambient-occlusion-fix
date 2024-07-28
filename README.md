@@ -1,9 +1,9 @@
 # Corner Ambient Occlusion Fix
 
 Fixes ambient occlusion when on surface corners as observed in Cosmic Reach
-`0.1.39`.
+`0.1.41`.
 
-| Fix (Mod Installed) | Issue (Cosmic Reach as of 0.1.39) |
+| Fix (Mod Installed) | Issue (Cosmic Reach as of 0.1.41) |
 |:-------------------:|:---------------------------------:|
 | ![exhibit-with-mod] |      ![exhibit-without-mod]       |
 
