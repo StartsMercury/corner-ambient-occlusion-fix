@@ -12,9 +12,9 @@ Fixes ambient occlusion when on surface corners as observed in Cosmic Reach
 
 ## Downloads
 
-Corner Ambient Occlusion Fix is only officially available on CRRM and GitHub. All
+Corner Ambient Occlusion Fix is only officially available on CRMM and GitHub. All
 published version of this mod are both in
-[CRRM](https://www.crmm.tech/mod/corner-ambient-occlusion-fix/versions) and [GitHub Releases](https://github.com/StartsMercury/corner-ambient-occlusion-fix/releases):
+[CRMM](https://www.crmm.tech/mod/corner-ambient-occlusion-fix/versions) and [GitHub Releases](https://github.com/StartsMercury/corner-ambient-occlusion-fix/releases):
 
 > * <https://www.crmm.tech/mod/corner-ambient-occlusion-fix/versions>
 > * <https://github.com/StartsMercury/corner-ambient-occlusion-fix/releases>
