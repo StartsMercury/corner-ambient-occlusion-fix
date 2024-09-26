@@ -20,7 +20,7 @@
                 "sources": "https://github.com/StartsMercury/corner-ambient-occlusion-fix"
             },
 
-            "icon": "assets/corner-ambient-occlusion-fix/icon.png"
+            "icon": "corner-ambient-occlusion-fix/textures/icon.png"
         },
 
         "entrypoints": {
