@@ -8,7 +8,7 @@ object Constants {
 
     const val DISPLAY_NAME = "Corner Ambient Occlusion Fix"
 
-    const val VERSION_COSMIC_REACH = "0.3.5"
+    const val VERSION_COSMIC_REACH = "0.3.6"
     const val VERSION_JAVA = "17"
 }
 
